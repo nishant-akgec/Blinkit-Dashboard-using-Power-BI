@@ -30,7 +30,7 @@ An interactive Power BI dashboard analysing Blinkit grocery sales across items, 
 - Tier 3 outlets lead in sales across both fat categories
 - Higher shelf visibility does not necessarily mean higher sales
 
-## 🛠 Tools & Skills
+## 🛠 Tools & Skills used
 Power BI Desktop · Power Query · DAX · Data Modelling · Data Visualization
 
 ## 📁 Project Structure
